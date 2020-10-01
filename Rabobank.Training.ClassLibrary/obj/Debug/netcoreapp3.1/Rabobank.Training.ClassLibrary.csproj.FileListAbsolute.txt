@@ -1,0 +1,10 @@
+C:\Dhanej\Work\Training\Rabobank.Training.ClassLibrary\bin\Debug\netcoreapp3.1\Data\FundsOfMandatesData.xml
+C:\Dhanej\Work\Training\Rabobank.Training.ClassLibrary\bin\Debug\netcoreapp3.1\Rabobank.Training.ClassLibrary.deps.json
+C:\Dhanej\Work\Training\Rabobank.Training.ClassLibrary\bin\Debug\netcoreapp3.1\Rabobank.Training.ClassLibrary.dll
+C:\Dhanej\Work\Training\Rabobank.Training.ClassLibrary\bin\Debug\netcoreapp3.1\Rabobank.Training.ClassLibrary.pdb
+C:\Dhanej\Work\Training\Rabobank.Training.ClassLibrary\obj\Debug\netcoreapp3.1\Rabobank.Training.ClassLibrary.csprojAssemblyReference.cache
+C:\Dhanej\Work\Training\Rabobank.Training.ClassLibrary\obj\Debug\netcoreapp3.1\Rabobank.Training.ClassLibrary.AssemblyInfoInputs.cache
+C:\Dhanej\Work\Training\Rabobank.Training.ClassLibrary\obj\Debug\netcoreapp3.1\Rabobank.Training.ClassLibrary.AssemblyInfo.cs
+C:\Dhanej\Work\Training\Rabobank.Training.ClassLibrary\obj\Debug\netcoreapp3.1\Rabobank.Training.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Dhanej\Work\Training\Rabobank.Training.ClassLibrary\obj\Debug\netcoreapp3.1\Rabobank.Training.ClassLibrary.dll
+C:\Dhanej\Work\Training\Rabobank.Training.ClassLibrary\obj\Debug\netcoreapp3.1\Rabobank.Training.ClassLibrary.pdb

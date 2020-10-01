@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Rabobank.Training.ClassLibrary",
+    "\\Rabobank.Training.ClassLibrary.Tests",
+    "\\Rabobank.Training.ClassLibrary\\BusinessLayer",
+    "\\Rabobank.Training.Webapp",
+    "\\Rabobank.Training.WebApp.msTest"
+  ],
+  "SelectedNode": "\\Rabobank.Training.WebApp.msTest\\PortfolioTest.cs",
+  "PreviewInSolutionExplorer": false
+}

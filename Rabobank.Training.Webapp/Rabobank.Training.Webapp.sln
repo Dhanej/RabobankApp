@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rabobank.Training.WebApp", "Rabobank.Training.WebApp.csproj", "{A54E2BAA-1509-4852-AC4A-C58EA3F093AB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rabobank.Training.ClassLibrary", "..\Rabobank.Training.ClassLibrary\Rabobank.Training.ClassLibrary.csproj", "{F73233C9-C2AC-460D-9A4E-317F0827B359}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rabobank.Training.ClassLibrary.Tests", "..\Rabobank.Training.ClassLibrary.Tests\Rabobank.Training.ClassLibrary.Tests.csproj", "{B38FC70B-7FB5-42B3-A005-7714283DC49D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rabobank.Training.WebApp.Tests", "..\Rabobank.Training.WebApp.msTest\Rabobank.Training.WebApp.Tests.csproj", "{AEEC00A3-6AA7-4034-808E-1B0F0C3EA11A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A54E2BAA-1509-4852-AC4A-C58EA3F093AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A54E2BAA-1509-4852-AC4A-C58EA3F093AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A54E2BAA-1509-4852-AC4A-C58EA3F093AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A54E2BAA-1509-4852-AC4A-C58EA3F093AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F73233C9-C2AC-460D-9A4E-317F0827B359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73233C9-C2AC-460D-9A4E-317F0827B359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73233C9-C2AC-460D-9A4E-317F0827B359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73233C9-C2AC-460D-9A4E-317F0827B359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B38FC70B-7FB5-42B3-A005-7714283DC49D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B38FC70B-7FB5-42B3-A005-7714283DC49D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B38FC70B-7FB5-42B3-A005-7714283DC49D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B38FC70B-7FB5-42B3-A005-7714283DC49D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEEC00A3-6AA7-4034-808E-1B0F0C3EA11A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEEC00A3-6AA7-4034-808E-1B0F0C3EA11A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEEC00A3-6AA7-4034-808E-1B0F0C3EA11A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEEC00A3-6AA7-4034-808E-1B0F0C3EA11A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B95CA7A-286E-43D7-9518-15F8840541ED}
+	EndGlobalSection
+EndGlobal

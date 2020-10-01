@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dhanej\\Work\\Training\\Rabobank.Training.WebApp.msTest\\Rabobank.Training.WebApp.Tests.csproj": {}
+    "C:\\Users\\dhane\\Source\\Repos\\Dhanej\\RabobankApp\\Rabobank.Training.WebApp.msTest\\Rabobank.Training.WebApp.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Dhanej\\Work\\Training\\Rabobank.Training.ClassLibrary\\Rabobank.Training.ClassLibrary.csproj": {
+    "C:\\Users\\dhane\\Source\\Repos\\Dhanej\\RabobankApp\\Rabobank.Training.ClassLibrary\\Rabobank.Training.ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dhanej\\Work\\Training\\Rabobank.Training.ClassLibrary\\Rabobank.Training.ClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\dhane\\Source\\Repos\\Dhanej\\RabobankApp\\Rabobank.Training.ClassLibrary\\Rabobank.Training.ClassLibrary.csproj",
         "projectName": "Rabobank.Training.ClassLibrary",
-        "projectPath": "C:\\Dhanej\\Work\\Training\\Rabobank.Training.ClassLibrary\\Rabobank.Training.ClassLibrary.csproj",
+        "projectPath": "C:\\Users\\dhane\\Source\\Repos\\Dhanej\\RabobankApp\\Rabobank.Training.ClassLibrary\\Rabobank.Training.ClassLibrary.csproj",
         "packagesPath": "C:\\Users\\dhane\\.nuget\\packages\\",
-        "outputPath": "C:\\Dhanej\\Work\\Training\\Rabobank.Training.ClassLibrary\\obj\\",
+        "outputPath": "C:\\Users\\dhane\\Source\\Repos\\Dhanej\\RabobankApp\\Rabobank.Training.ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -60,14 +60,14 @@
         }
       }
     },
-    "C:\\Dhanej\\Work\\Training\\Rabobank.Training.WebApp.msTest\\Rabobank.Training.WebApp.Tests.csproj": {
+    "C:\\Users\\dhane\\Source\\Repos\\Dhanej\\RabobankApp\\Rabobank.Training.WebApp.msTest\\Rabobank.Training.WebApp.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dhanej\\Work\\Training\\Rabobank.Training.WebApp.msTest\\Rabobank.Training.WebApp.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\dhane\\Source\\Repos\\Dhanej\\RabobankApp\\Rabobank.Training.WebApp.msTest\\Rabobank.Training.WebApp.Tests.csproj",
         "projectName": "Rabobank.Training.WebApp.Tests",
-        "projectPath": "C:\\Dhanej\\Work\\Training\\Rabobank.Training.WebApp.msTest\\Rabobank.Training.WebApp.Tests.csproj",
+        "projectPath": "C:\\Users\\dhane\\Source\\Repos\\Dhanej\\RabobankApp\\Rabobank.Training.WebApp.msTest\\Rabobank.Training.WebApp.Tests.csproj",
         "packagesPath": "C:\\Users\\dhane\\.nuget\\packages\\",
-        "outputPath": "C:\\Dhanej\\Work\\Training\\Rabobank.Training.WebApp.msTest\\obj\\",
+        "outputPath": "C:\\Users\\dhane\\Source\\Repos\\Dhanej\\RabobankApp\\Rabobank.Training.WebApp.msTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -87,11 +87,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Dhanej\\Work\\Training\\Rabobank.Training.ClassLibrary\\Rabobank.Training.ClassLibrary.csproj": {
-                "projectPath": "C:\\Dhanej\\Work\\Training\\Rabobank.Training.ClassLibrary\\Rabobank.Training.ClassLibrary.csproj"
+              "C:\\Users\\dhane\\Source\\Repos\\Dhanej\\RabobankApp\\Rabobank.Training.ClassLibrary\\Rabobank.Training.ClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\dhane\\Source\\Repos\\Dhanej\\RabobankApp\\Rabobank.Training.ClassLibrary\\Rabobank.Training.ClassLibrary.csproj"
               },
-              "C:\\Dhanej\\Work\\Training\\Rabobank.Training.Webapp\\Rabobank.Training.WebApp.csproj": {
-                "projectPath": "C:\\Dhanej\\Work\\Training\\Rabobank.Training.Webapp\\Rabobank.Training.WebApp.csproj"
+              "C:\\Users\\dhane\\Source\\Repos\\Dhanej\\RabobankApp\\Rabobank.Training.Webapp\\Rabobank.Training.WebApp.csproj": {
+                "projectPath": "C:\\Users\\dhane\\Source\\Repos\\Dhanej\\RabobankApp\\Rabobank.Training.Webapp\\Rabobank.Training.WebApp.csproj"
               }
             }
           }
@@ -152,14 +152,14 @@
         }
       }
     },
-    "C:\\Dhanej\\Work\\Training\\Rabobank.Training.Webapp\\Rabobank.Training.WebApp.csproj": {
+    "C:\\Users\\dhane\\Source\\Repos\\Dhanej\\RabobankApp\\Rabobank.Training.Webapp\\Rabobank.Training.WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dhanej\\Work\\Training\\Rabobank.Training.Webapp\\Rabobank.Training.WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\dhane\\Source\\Repos\\Dhanej\\RabobankApp\\Rabobank.Training.Webapp\\Rabobank.Training.WebApp.csproj",
         "projectName": "Rabobank.Training.WebApp",
-        "projectPath": "C:\\Dhanej\\Work\\Training\\Rabobank.Training.Webapp\\Rabobank.Training.WebApp.csproj",
+        "projectPath": "C:\\Users\\dhane\\Source\\Repos\\Dhanej\\RabobankApp\\Rabobank.Training.Webapp\\Rabobank.Training.WebApp.csproj",
         "packagesPath": "C:\\Users\\dhane\\.nuget\\packages\\",
-        "outputPath": "C:\\Dhanej\\Work\\Training\\Rabobank.Training.Webapp\\obj\\",
+        "outputPath": "C:\\Users\\dhane\\Source\\Repos\\Dhanej\\RabobankApp\\Rabobank.Training.Webapp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -179,8 +179,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Dhanej\\Work\\Training\\Rabobank.Training.ClassLibrary\\Rabobank.Training.ClassLibrary.csproj": {
-                "projectPath": "C:\\Dhanej\\Work\\Training\\Rabobank.Training.ClassLibrary\\Rabobank.Training.ClassLibrary.csproj"
+              "C:\\Users\\dhane\\Source\\Repos\\Dhanej\\RabobankApp\\Rabobank.Training.ClassLibrary\\Rabobank.Training.ClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\dhane\\Source\\Repos\\Dhanej\\RabobankApp\\Rabobank.Training.ClassLibrary\\Rabobank.Training.ClassLibrary.csproj"
               }
             }
           }

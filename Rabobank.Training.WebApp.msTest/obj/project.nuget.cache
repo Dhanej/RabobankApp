@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YbdboEvxWcdCObttTrAKWQ4QWtCfpcO77xDGYKDUVyzVVLukJIKs0CRC08fEgSZD/1GwBpwFxZOxKowfzkqdkA==",
+  "dgSpecHash": "R8SmJzPLMNTkpIZ8F2KPFk2YItGlhnuf8A89YogNNFWuUe9mPSf5A7mto1//0+GYN7YLlfAEjkeMK0sctDiLkg==",
   "success": true,
-  "projectFilePath": "C:\\Dhanej\\Work\\Training\\Rabobank.Training.WebApp.msTest\\Rabobank.Training.WebApp.Tests.csproj",
+  "projectFilePath": "C:\\Users\\dhane\\Source\\Repos\\Dhanej\\RabobankApp\\Rabobank.Training.WebApp.msTest\\Rabobank.Training.WebApp.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dhane\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\dhane\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",

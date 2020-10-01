@@ -5876,11 +5876,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dhanej\\Work\\Training\\Rabobank.Training.ClassLibrary.Tests\\Rabobank.Training.ClassLibrary.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\dhane\\Source\\Repos\\Dhanej\\RabobankApp\\Rabobank.Training.ClassLibrary.Tests\\Rabobank.Training.ClassLibrary.Tests.csproj",
       "projectName": "Rabobank.Training.ClassLibrary.Tests",
-      "projectPath": "C:\\Dhanej\\Work\\Training\\Rabobank.Training.ClassLibrary.Tests\\Rabobank.Training.ClassLibrary.Tests.csproj",
+      "projectPath": "C:\\Users\\dhane\\Source\\Repos\\Dhanej\\RabobankApp\\Rabobank.Training.ClassLibrary.Tests\\Rabobank.Training.ClassLibrary.Tests.csproj",
       "packagesPath": "C:\\Users\\dhane\\.nuget\\packages\\",
-      "outputPath": "C:\\Dhanej\\Work\\Training\\Rabobank.Training.ClassLibrary.Tests\\obj\\",
+      "outputPath": "C:\\Users\\dhane\\Source\\Repos\\Dhanej\\RabobankApp\\Rabobank.Training.ClassLibrary.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -5900,8 +5900,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Dhanej\\Work\\Training\\Rabobank.Training.ClassLibrary\\Rabobank.Training.ClassLibrary.csproj": {
-              "projectPath": "C:\\Dhanej\\Work\\Training\\Rabobank.Training.ClassLibrary\\Rabobank.Training.ClassLibrary.csproj"
+            "C:\\Users\\dhane\\Source\\Repos\\Dhanej\\RabobankApp\\Rabobank.Training.ClassLibrary\\Rabobank.Training.ClassLibrary.csproj": {
+              "projectPath": "C:\\Users\\dhane\\Source\\Repos\\Dhanej\\RabobankApp\\Rabobank.Training.ClassLibrary\\Rabobank.Training.ClassLibrary.csproj"
             }
           }
         }

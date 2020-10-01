@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dhanej\\Work\\Training\\Rabobank.Training.ClassLibrary\\Rabobank.Training.ClassLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\dhane\\Source\\Repos\\Dhanej\\RabobankApp\\Rabobank.Training.ClassLibrary\\Rabobank.Training.ClassLibrary.csproj",
       "projectName": "Rabobank.Training.ClassLibrary",
-      "projectPath": "C:\\Dhanej\\Work\\Training\\Rabobank.Training.ClassLibrary\\Rabobank.Training.ClassLibrary.csproj",
+      "projectPath": "C:\\Users\\dhane\\Source\\Repos\\Dhanej\\RabobankApp\\Rabobank.Training.ClassLibrary\\Rabobank.Training.ClassLibrary.csproj",
       "packagesPath": "C:\\Users\\dhane\\.nuget\\packages\\",
-      "outputPath": "C:\\Dhanej\\Work\\Training\\Rabobank.Training.ClassLibrary\\obj\\",
+      "outputPath": "C:\\Users\\dhane\\Source\\Repos\\Dhanej\\RabobankApp\\Rabobank.Training.ClassLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
